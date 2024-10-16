@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to my profile! 💙
 
-<!--
-**CG031/CG031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My name is **Cristian Gallert**. I hold a degree in Mathematics and have been teaching since 2012.
 
-Here are some ideas to get you started:
+## Education and Interests
+In the second semester of 2024, I started a course in game programming. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am still studying theoretical subjects in my degree while deepening my programming knowledge through external courses, 
+focusing on style languages, HTML, and JavaScript, using [Alura](https://www.alura.com.br) courses as a foundation for my programming journey.
+
+I am excited to discover which programming language I will specialize in to create amazing games!
+
+## Contact
+Feel free to reach out to me on Instagram: 
+[@cristiangallert](https://www.instagram.com/cristiangallert).
+
+![](https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif)
