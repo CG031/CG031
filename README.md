@@ -1,18 +1,16 @@
-# Welcome to my profile! 💙
+#Bem-vindo ao meu perfil! 💙
 
-## About Me
-My name is **Cristian Gallert**. I hold a degree in Mathematics and have been teaching since 2012.
+Meu nome é Cristian Gallert. Sou licenciado em Matemática e atuo como professor desde 2012.
 
-## Education and Interests
-In the second semester of 2024, I started a course in game programming. 
+##Atualmente:
+No segundo semestre de 2024, comecei uma graduação em programação de jogos.
 
-Currently, I am still studying theoretical subjects in my degree while deepening my programming knowledge through external courses, 
-focusing on style languages, HTML, and JavaScript, using [Alura](https://www.alura.com.br) courses as a foundation for my programming journey.
+Ainda estou estudando matérias teóricas na graduação, enquanto aprofundo meu conhecimento em programação por meio de cursos externos, focando em linguagens de estilo, HTML e JavaScript, usando os cursos da Alura como base para minha jornada na programação.
 
-I am excited to discover which programming language I will specialize in to create amazing games!
+Estou empolgado para descobrir em qual linguagem de programação vou me especializar para criar jogos incríveis!
 
-## Contact
-Feel free to reach out to me on Instagram: 
+Contato
+Sinta-se à vontade para me contatar no Instagram: 
 [@cristiangallert](https://www.instagram.com/cristiangallert).
 
 ![](https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif)
