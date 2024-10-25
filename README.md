@@ -1,9 +1,9 @@
 # Boas-vindas ao meu perfil! 💙
 
-Meu nome é Cristian Gallert. Sou licenciado em Matemática e atuo como professor desde 2012.
+_Meu nome é Cristian Gallert. Sou licenciado em Matemática e atuo como professor desde 2012._
 
 ## Atualmente:
-No segundo semestre de 2024, comecei uma graduação em programação de jogos.
+No segundo semestre de 2024, comecei uma graduação em **programação de jogos.**
 
  Através de cursos externos, estou estudando:
  
@@ -17,4 +17,4 @@ No segundo semestre de 2024, comecei uma graduação em programação de jogos.
 Sinta-se à vontade para me contatar no [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristiangallert)
 
 
-![](https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif)
+![](https://tenor.com/pt-BR/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107)
