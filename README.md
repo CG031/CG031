@@ -17,4 +17,4 @@ No segundo semestre de 2024, comecei uma graduação em **programação de jogos
 Sinta-se à vontade para me contatar no [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristiangallert)
 
 
-![](https://tenor.com/pt-BR/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107)
+![](https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif)
